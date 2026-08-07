@@ -1,0 +1,1 @@
+COMMENT ON TABLE public.edu_email_verifications IS 'Email verification tokens for student upgrades';

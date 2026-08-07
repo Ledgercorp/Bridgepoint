@@ -1,0 +1,1 @@
+COMMENT ON TABLE public.user_roles IS 'User role assignments for access control';

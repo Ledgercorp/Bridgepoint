@@ -1,0 +1,52 @@
+project_id = "vjclepfwxaolgobvzccv"
+
+[functions.resource-finder]
+verify_jwt = false
+
+[functions.life-navigation]
+verify_jwt = false
+
+[functions.speech-to-text]
+verify_jwt = false
+
+[functions.text-to-speech]
+verify_jwt = false
+
+[functions.check-resource-websites]
+verify_jwt = false
+
+[functions.send-professional-verification]
+verify_jwt = false
+
+[functions.system-navigator]
+
+[functions.check-subscription]
+
+[functions.create-checkout]
+
+[functions.customer-portal]
+
+[functions.moderate-thread-message]
+
+[functions.lookup-organization]
+verify_jwt = false
+
+[functions.claim-bundle]
+verify_jwt = true
+
+[functions.send-org-invite]
+verify_jwt = true
+
+[functions.accept-org-invite]
+verify_jwt = true
+
+[functions.check-organization-subscription]
+
+[functions.create-organization-checkout]
+
+[functions.organization-customer-portal]
+
+[functions.generate-workflow]
+
+[functions.generate-assignment]
+verify_jwt = true

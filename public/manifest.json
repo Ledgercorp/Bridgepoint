@@ -1,0 +1,18 @@
+{
+  "name": "BridgePoint AI",
+  "short_name": "BridgePoint",
+  "description": "Community Resource Navigator with AI guide Solace",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/bridgepoint-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

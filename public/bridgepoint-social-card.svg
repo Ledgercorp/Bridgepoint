@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">BridgePoint</title>
+  <desc id="desc">BridgePoint community resource navigator</desc>
+  <rect width="1200" height="630" fill="#F8FAFB"/>
+  <rect x="72" y="72" width="8" height="486" rx="4" fill="#00A1D6"/>
+  <g transform="translate(120 130)">
+    <rect width="68" height="68" rx="14" fill="#202126"/>
+    <path d="M18 42h9c4 0 7-3 7-7v-3c0-4 3-7 7-7h9" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="18" cy="42" r="4" fill="#00A1D6"/>
+    <circle cx="50" cy="25" r="4" fill="#F47757"/>
+  </g>
+  <text x="120" y="300" fill="#202126" font-family="Inter, Arial, sans-serif" font-size="86" font-weight="700" letter-spacing="-3">BridgePoint</text>
+  <text x="124" y="365" fill="#555861" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="500">Community Resource Navigator</text>
+  <line x1="124" y1="421" x2="1080" y2="421" stroke="#E4E7EA" stroke-width="2"/>
+  <text x="124" y="480" fill="#6A6D75" font-family="Inter, Arial, sans-serif" font-size="24">Resource discovery · guided workflows · human services</text>
+</svg>

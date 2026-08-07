@@ -1,0 +1,1 @@
+COMMENT ON TABLE public.learning_notes IS 'Student learning notes for resources';

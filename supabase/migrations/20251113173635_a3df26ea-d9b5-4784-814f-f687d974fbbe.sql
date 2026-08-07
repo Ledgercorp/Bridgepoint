@@ -1,0 +1,1 @@
+COMMENT ON TABLE public.resources IS 'Community resources and services database';

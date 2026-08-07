@@ -1,0 +1,1 @@
+COMMENT ON TABLE public.resource_reports IS 'User submitted resource reports';

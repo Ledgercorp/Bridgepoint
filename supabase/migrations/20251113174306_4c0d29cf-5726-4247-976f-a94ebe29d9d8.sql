@@ -1,0 +1,1 @@
+COMMENT ON COLUMN public.resources.longitude IS 'Resource longitude coordinate for distance calculations';

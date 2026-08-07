@@ -1,0 +1,1 @@
+COMMENT ON TABLE public.user_profiles IS 'User profile information and preferences';

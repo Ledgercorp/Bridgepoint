@@ -1,0 +1,1 @@
+COMMENT ON TABLE public.resource_kit_items IS 'Items in user resource kits';
